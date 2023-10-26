@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://1p8x1i6oceb8"
+path="res://.godot/imported/Battle with Magus.mp3-ad3b597e09ba837eb529314f4ca33143.mp3str"
+
+[deps]
+
+source_file="res://Music/Battle with Magus.mp3"
+dest_files=["res://.godot/imported/Battle with Magus.mp3-ad3b597e09ba837eb529314f4ca33143.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

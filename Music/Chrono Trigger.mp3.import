@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cs27iosj258tk"
+path="res://.godot/imported/Chrono Trigger.mp3-d07461abb90e5926739a5825bc0e646a.mp3str"
+
+[deps]
+
+source_file="res://Music/Chrono Trigger.mp3"
+dest_files=["res://.godot/imported/Chrono Trigger.mp3-d07461abb90e5926739a5825bc0e646a.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
